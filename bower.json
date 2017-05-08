@@ -1,0 +1,19 @@
+{
+  "name": "105-project",
+  "description": "## Testing",
+  "main": "index.js",
+  "authors": [
+    "cricard7 <chad_ricard@hotmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/cricard7/fictional-adventure",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "www/lib",
+    "test",
+    "tests"
+  ]
+}
